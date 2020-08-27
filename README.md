@@ -5,11 +5,9 @@ Only the following libc functions are allowed : malloc(3), free(3) and write(2).
 
 ## General
 
-1.  **Libc Functions:** Some of the standard C functions
-2.  **Additional functions:** Functions 42 deems will be useful for later projects
-3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
-
-
+1.  Libc Functions
+2.  Additional Functions
+3.  Bonus Functions (List operations)
 
 Libc functions | Additional functions | Bonus Functions
 :----------- | :-----------: | :-----------: 
@@ -47,3 +45,5 @@ The goal is to create a library called **libft.a** from the source files for lat
 
 	cd libft
 	make
+
+Full description of the project you can find inside the **libft.en.pdf**
